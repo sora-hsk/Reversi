@@ -1,3 +1,3 @@
 # Reversi
-android studioのプロジェクト</n>
+android studioのプロジェクト</br>
 一応CPU対戦できるオセロアプリ
